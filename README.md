@@ -7,7 +7,8 @@
 ##
 ![screenshot_start](https://cloud.githubusercontent.com/assets/21304543/22435694/502c9c78-e721-11e6-97db-7ea897b9dc30.png)
 ##
-## The screen can be portrait layout or scenary layout. It can be changed in the middle of a game. The score is kept.
+## The screen can be portrait layout or scenery layout. It can be changed in the middle of a game. The score is kept.
+##
 ![screenshot_vertical](https://cloud.githubusercontent.com/assets/21304543/22435729/6f97f332-e721-11e6-9420-dc531b08e411.png)
 ![screenshot_horizontal](https://cloud.githubusercontent.com/assets/21304543/22435730/6f9c5030-e721-11e6-8663-b2109f8fe43b.png)
 ##
