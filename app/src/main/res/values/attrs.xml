@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OthelloView">
+        <attr name="spaceDashBord" format="dimension" />
+        <attr name="bgColor" format="color" />
+        <attr name="scoreColor" format="color" />
+        <attr name="scoreSize" format="integer" />
+    </declare-styleable>
+</resources>
