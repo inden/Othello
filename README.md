@@ -1,5 +1,5 @@
 # (Study) Othello game
-## - Othello game for android. The app is developped for learning android skills like Custom view. 
+## -An Othello game for android. The app is developed to learn Android Custom view. 
 ## The app use the game engine from Matt Luthman (http://www.luthman.nu/Othello/Othello.html)
 ## 
 ## How to use?
