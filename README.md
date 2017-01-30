@@ -15,6 +15,8 @@
 ## The game goes on
 ##
 ![screenshot_2](https://cloud.githubusercontent.com/assets/21304543/22435696/54c8f8bc-e721-11e6-8638-979d51fe02ce.png)
+
+
 ![screenshot_3](https://cloud.githubusercontent.com/assets/21304543/22435704/5db0cc5c-e721-11e6-8356-c51c1422e3e3.png)
 ##
 ## When the last cell is filled, the game will be over.
