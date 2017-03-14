@@ -46,7 +46,7 @@
 ### SDK API 19 or higher required
 ##
 ## Technology 
-Custom view
+Custom view, 
 Application class extended to hold the game engine
 
 
