@@ -1,18 +1,22 @@
 # (Demo) Othello game
-## -A classic Othello game for android. The app is developed to learn Android Custom view and touch events. 
-## The app uses the game engine from Matt Luthman (http://www.luthman.nu/Othello/Othello.html)
+## -A classic Othello game for android. 
+### The app is developed to learn Android Custom view and touch events. 
+### The app uses the game engine from Matt Luthman (http://www.luthman.nu/Othello/Othello.html)
 ## 
-## How to use
+## How to play
 ##
-## The game will be started. You vs Computer.
+### You can check the rule on http://www.wikihow.com/Play-Othello
+#
+### In this demo app, you play against the computer.
+### The black side always starts first. You can decide the side.
+### The screen layout can be changed during the game. The score is kept. 
 ##
 <img src="https://cloud.githubusercontent.com/assets/21304543/22435694/502c9c78-e721-11e6-97db-7ea897b9dc30.png" width="400"/>
 ##
-## The screen can be portrait layout or scenery layout. It can be changed in the middle of a game. The score is kept.
 ##
 <img src="https://cloud.githubusercontent.com/assets/21304543/22435729/6f97f332-e721-11e6-9420-dc531b08e411.png" width="400"/>
 #
-![screenshot_horizontal](https://cloud.githubusercontent.com/assets/21304543/22435730/6f9c5030-e721-11e6-8663-b2109f8fe43b.png)
+<img src="https://cloud.githubusercontent.com/assets/21304543/22435730/6f9c5030-e721-11e6-8663-b2109f8fe43b.png" width="400"/>
 ##
 ## The game goes on
 ##
