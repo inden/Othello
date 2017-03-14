@@ -37,14 +37,18 @@
 
 ##
 ## Replay
-### Click the replay button next to the score. On the dialog window, you can decide the side before start. 
+### Click the replay button next to the score. 
+### On the dialog window, you can decide the side before start. 
 
 <img src="https://cloud.githubusercontent.com/assets/21304543/22435743/81fc62d8-e721-11e6-97dd-6075b7955e76.png" width="300"/>
 
 ##
-# SDK API 19 or higher required
+### SDK API 19 or higher required
 ##
-# Technology included
+## Technology 
+Custom view
+Application class extended to hold the game engine
+
 
 
 
